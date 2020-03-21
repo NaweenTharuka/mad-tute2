@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Tute2</string>
+    <string name="textnum1">Number 1</string>
+    <string name="textnum2">Number 2</string>
+    <string name="btnok">OK</string>
+    <string name="btn_plus">+</string>
+    <string name="btn_min">-</string>
+    <string name="btn_mul">*</string>
+    <string name="btn_div">/</string>
+    <string name="text_num1">Number 1</string>
+    <string name="text_num2">Number 2</string>
+</resources>
